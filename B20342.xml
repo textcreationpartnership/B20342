@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In the Nationall Assemblie at Edinburgh the fourth day of August, 1641.</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20342</idno><idno type="EEBO-CITATION">99885483</idno>
+  <idno type="VID">188435</idno>
+  <idno type="EEBO-PROQUEST">2240902142</idno>
+  
+            <idno type="STC">Wing C4229F</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.11[18]</idno>
+            <idno type="STC">ESTC R223969</idno>
+            <idno type="PROQUEST">ocm99885483</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885483e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188435)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:3[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In the Nationall Assemblie at Edinburgh the fourth day of August, 1641.</title>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Bryson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes texts dated 6 and 25 August 1641.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Church History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act_of_the_National_Assembly">
+            <pb facs="tcp:188435:1"/>
+            <head>❧ In the nationall Assemblie at Edinburgh <date>the fourth day of August, 1641.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Assemblie seriously considering the present case and condition of this Kirk and Kingdome, what great things the Lord hath done for us; especially since the renewing of our Covenant, notwithstanding our former backslydings and defection. And if we either become remisse in the duties of pietie, or shall not constantly hold and keep our Religion, unto which we have bound our selves so straitly and solemnly, what dishonour we do unto the name of God before men, who have their eyes up<g ref="char:EOLhyphen"/>on us, and how great judgement we bring upon our selves. Upon these and the like considerations, The Assembly doth finde it most necessary to stir up themselves, and to provoke all others, both Ministers and People of all degrees, not onely to the reli<g ref="char:EOLhyphen"/>gious exercises of publick worship in the congregation, and of private worship in their families, and of every one, by themselves apart; but also to the duties of mutuall edification, by instruction, admonition, exhorting one another to forwardnesse in Re<g ref="char:EOLhyphen"/>ligion, and comforting one another in whatsoever distresse, and that in all their meetings, whether in the way of civill conversa<g ref="char:EOLhyphen"/>tion, or by reason of their particular callings, or any other occasions offered by divine providence, no corrupt communicati<g ref="char:EOLhyphen"/>on proceed out of their mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.</p>
+            <p>And because the best means have been, and may still be despised or abused, and particularly the duety of mutuall edification, which have been so little in use, and so few know to practise in the right manner, may be upon the one part subject to the mocking of ungodly and worldly men, who can not en<g ref="char:EOLhyphen"/>dure that in others which they are not willing to practise themselves: And upon the other part, to many errours and abuses, which the godlie through their weaknesse may fall, or by the craftinesse of others may be drawn into, Such as are errour, heresie, schisme, scandall, self-conceit, and despising of others, presuming above the common calling of Christians, and usurping that which is proper to the Pastorall vocation, contempt, or mis-regard of the publick means, idle and unprofitable questions, which edifie not, uncharitable censurings, neglect of dueties in particular callings, businesse in other mens matters and callings, and many such evils in doctrine, charity, and manners, which have dolefully rent the bowels of other Kirks, to the great prejudice of the Gospel.</p>
+            <p>Therefore the Assembly moved with the zeal of God against all abuses and corruptions, and according to their manifold obligation, most earnestly de<g ref="char:EOLhyphen"/>siring, &amp; thirsting to promove the work of reformation, and to have the comfort and power of true godlinesse sensible to every soul, and Religion to bee universally practised in every family, and by every person at all occasions, doth charge all the Ministers and members of this Kirk, whom they do repre<g ref="char:EOLhyphen"/>sent, that according to their several places and vocations, they endeavour to suppresse all impiety, and mocking of religious exercises; especiall of such as put foule aspersions and factious, or odious names upon the godly; and upon the other part, that in the fear of God they bee aware, and spiritually wise, that under the name and pretext of religious exercises, otherwise lawfull and necessary, they fall not into the foresaid abuses; and specially that they eschew all meetings vvhich are apt to breed errour, scandal, schisme, neglect of dueties and particular callings, And such other evils as are the works not of the Spirit, but of the flesh, and are contrary to truth and peace; and that the Presbyteries and Synods have a care to take order with such as transgresse the one way or the other.</p>
+         </div>
+         <div type="ratification_of_National_Assembly_act">
+            <head>In the Assembly at <hi>Edinburgh</hi>
+               <date>the 6 day of August, 1641.</date>
+            </head>
+            <p>SInce it hath pleased God to vouchsafe us the libertie of yearly Generall Assemblies, It is ordained according to the Acts of the Assembly at <hi>Edinburgh,</hi> 1639. and at <hi>Aberdeen</hi> 1640, That no novation in doctrine, worship or Government be brought in or practised in this Kirk, un<g ref="char:EOLhyphen"/>lesse it be first propounded, examined and allowed in the Generall Assembly: And that transgressours in this kinde bee censured by Pres<g ref="char:EOLhyphen"/>byteries and Synodes.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Right Reverend and beloved Brethren.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hese times past many Letters have been directed unto you, for keeping daies of humiliation. But now (which is the mercy of God upon us in hearing and answering of our prayers) the seventh day of September approching is agreed upon by the Commissioners of the Treatie betwixt the two Kingdomes, for keeping a solemne thanks-giving in all the Kirks of his Majesties Dominions, according to a particular Article of the Treatie, wherin it is also agreed, that all Declarations, Proclamations, Acts, Books, Libels, &amp; Pamphlets, that have been made &amp; published against the Loyalty and Duetifulnesse of his Majesties subjects of Scotland shall be recalled, supprest and forbidden in <hi>England</hi> and <hi>Ireland:</hi> and that upon the day of Thanksgiving the loyalty of his Majesties said Subjects shall be made known in all places, and particularly in the paroch Kirks of his M<seg rend="sup">aties</seg> Dominions.</p>
+            <p>Thus much are we commanded by the King and Estates of Parliament, and by the Commissioners of the Generall Assembly, with speed to make known unto you, that the moderators of the Presbiteries may give advertisement to all the brethren for intimating the same to the people the Sabboth before, which will be the fift of September, and in case these shall not come timeously to your hands for observing that day, That the next Tuesday after the Letter co<g ref="char:EOLhyphen"/>meth to the Moderator of every Presbitery be observd. We have no cause to doubt but all that fear God, and have given themselves to observe his wonderful waies with us this time past, will go cheerfully about this so desireable and delectable a worke, especially now when our Army is returned in safetie and peace from <hi>England:</hi> all our difficultie will be to get it done by our selves and the people in such a manner as may not provoke but please the Lord, which we must recomend unto your wisedome, zeale, and diligence as earnestly and with as great fear and solicitude as ever we did any Duty since the be<g ref="char:EOLhyphen"/>ginning of this worke: For ye know a spirituall thanksgiving and rejoycing is an excercise of no lesse difficulty then prayer and extraordinary Humiliation; we remit the particulars unto your self, only we wish that the people conceave it not to be a day for eating and drinking and rising up to play, but that both before and afternoone they assemble for hearing and meditating upon the speciall and extraordinary favours and benefits which are the occasion of this spi<g ref="char:EOLhyphen"/>rituall solemnitie, and upon other mercies which thereby should be brought to their remembrance, and by singing of Psalmes both in the publick congre<g ref="char:EOLhyphen"/>gation, and in private families, and that the love and care of Christ be so far exalted, that we may all see our owne unworthines, may rejoyce in his grace and goodnesse, may have our faith and confidence in God for afterward confirmed, and may remember and renew our vowes and solemn promises made in our Covenant, both of piety to God, and of love amongst our selves, and concerning this last point we think it very convenient that the act of the late assembly be read in everie Pulpit, &amp; the particular duties conteined in it be earnestly recommended to the people, that they may be practised by them &amp; all the ministers.</p>
+            <p>This time now appointed being kept in this manner by us with other Kirks in his Majesties dominions wilbe a good preparation for another day of thanks<g ref="char:EOLhyphen"/>giving after the closing of the Parliament to be observed by all the Kirks of this Kingdome by it selfe, as being bound in a singular manner, and above all the rest to magnifie the name of God for his mercies, and for bringing our native King amongst us to be an instrument of so many blessings: But concerning this advertisement shall be given afterward: Beseeching the Lord who is worthy to be praised, and waiteth for praise from us, above all Nations, to direct, san<g ref="char:EOLhyphen"/>ctifie and assist you all, Wee continue in him,</p>
+            <closer>
+               <dateline>Edinburgh, <date>August 25. 1641.</date>
+               </dateline>
+               <signed>Your loving Brethren subscriving in name of the Commissioners of the Generall Assembly
+<list>
+                     <item>M. <hi>Alexander Henderson</hi> late Moderator.</item>
+                     <item>M. <hi>Archibald Johnston,</hi> Cle. Eccl.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh</hi> printed by <hi>Robert Bryson.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
